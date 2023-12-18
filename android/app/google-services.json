@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "22843191179",
+    "firebase_url": "https://farenow-user-default-rtdb.firebaseio.com",
+    "project_id": "farenow-user",
+    "storage_bucket": "farenow-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22843191179:android:7579b4e9b6e6263dfbc98e",
+        "android_client_info": {
+          "package_name": "com.app.farenow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22843191179-0agse31dskbc48ofun5rlrd50er57e0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.farenow",
+            "certificate_hash": "568ca5b1d5b46be111badeb7657ede48d17c1e44"
+          }
+        },
+        {
+          "client_id": "22843191179-24vntfc8r8goekqaec2kebnp86i2cbmb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.farenow",
+            "certificate_hash": "f8e3b40fa60bb879de5634c9006720c2e416b8dc"
+          }
+        },
+        {
+          "client_id": "22843191179-li5kg9odfmvrfeofgs7tcdbdk4bqj48i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.farenow",
+            "certificate_hash": "d1e6a38f9d0d835c7a5619ec205e5339466e11e1"
+          }
+        },
+        {
+          "client_id": "22843191179-q1iir5qp8v5ojampc6hue63sddcsucnf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.farenow",
+            "certificate_hash": "1e43b1edcdfeb115cad22c5e159e387c3a02b786"
+          }
+        },
+        {
+          "client_id": "22843191179-vs5uto9p16qu7pk2h2rokl9s2lld35mo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoNrIQ_w6mdtkmxUNzYVPQtDBAJNZ2Tks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22843191179-vs5uto9p16qu7pk2h2rokl9s2lld35mo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "22843191179-4gqq4c5efkp9bro69nc96341vfl6al46.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.comp.farenow"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

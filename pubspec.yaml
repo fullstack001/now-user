@@ -1,0 +1,171 @@
+name: application_1
+description: A new Flutter project.
+
+publish_to: "none"
+version: 2.4.2+32
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.5
+  cached_network_image: ^3.2.3
+  get: ^4.1.4
+  
+  carousel_slider: ^3.0.0
+  font_awesome_flutter: ^9.0.0
+
+  flutter_slidable: ^2.0.0
+  flutter_custom_clippers: ^1.1.2
+  google_maps_flutter: ^2.0.3
+  introduction_screen: ^2.1.0
+  sign_in_with_apple: ^4.1.0
+  flutter_secure_storage: ^6.0.0
+  smooth_star_rating: ^1.1.1
+  group_button: ^2.1.2
+ 
+  json_converter: ^2.0.0
+  flutter_easyloading: ^3.0.5
+  flutter_vector_icons: ^2.0.0
+  geolocator: ^9.0.2
+  geocoding: ^2.0.5
+  shared_preferences: ^2.0.15
+  flutter_keyboard_visibility: ^5.4.0
+  country_code_picker: ^2.0.2
+  preload_page_view: ^0.1.6
+ 
+  flutter_multi_formatter: ^2.8.7
+  progressive_image: ^2.0.0
+  credit_card_type_detector: ^2.0.0
+
+  firebase_messaging: ^14.1.2
+  gallery_saver: ^2.3.2
+  flutter_local_notifications: ^13.0.0
+  font_awesome: ^5.10.1
+  carousel_indicator: ^1.0.6
+ 
+  flutter_chat_bubble: ^2.0.0
+  flutter_datetime_picker: ^1.5.1
+
+  flutter_rating_bar: ^4.0.1
+  flutter_polyline_points: ^1.0.0
+  flutter_svg: ^2.0.0+1
+  awesome_notifications: ^0.6.21
+ 
+
+  socket_io_client: ^1.0.2
+  
+  flutter_credit_card: ^3.0.4
+  image_picker: ^0.8.6
+  permission_handler: ^10.2.0
+  timeago: ^3.3.0
+  intl: ^0.17.0
+  simple_gesture_detector: ^0.2.0
+  google_sign_in: ^5.4.2
+  stop_watch_timer: ^2.0.0
+  flutter_facebook_login: ^3.0.0
+  flutter_share: ^2.0.0
+  url_launcher: ^6.1.6
+  flutter_quill: ^6.1.0
+  social_login_buttons: ^1.0.6+2
+  rxdart: ^0.27.7
+  store_redirect: ^2.0.1
+  loading_overlay_pro: ^2.1.1
+  jumping_dot: ^0.0.4
+  
+  app_review: ^2.1.2+1
+ 
+
+ 
+
+  fdottedline: ^1.0.1
+  nb_utils: ^4.6.22
+  readmore: ^2.2.0
+  http: ^0.13.5
+  laravel_echo: ^0.2.9
+  dio: ^4.0.6
+  firebase_core: ^2.5.0
+ 
+
+
+
+
+
+
+
+dev_dependencies:
+  flutter_lints: ^2.0.1
+  pedantic_mono: any
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/user_assets/svg/
+    - assets/user_assets/png/
+    - assets/user_assets/png/card_provider/
+    - assets/profileImage/
+    - assets/ic_time.svg
+    - assets/icons/ic_add.svg
+    - assets/icons/ic_address_placeholer.svg
+    - assets/icons/ic_calendar.svg
+    - assets/icons/ic_mega_truck.svg
+    - assets/icons/ic_message.svg
+    - assets/icons/ic_mini_moto.svg
+    - assets/icons/ic_mini_truck.svg
+    - assets/icons/ic_navigation_arrow.svg
+    - assets/icons/ic_order_done.svg
+    - assets/icons/ic_pickup.svg
+    - assets/icons/ic_scooter.svg
+    - assets/icons/ic_tap_finger.svg
+    - assets/icons/ic_us_flag.svg
+    - assets/icons/ic_van.svg
+    - assets/icons/image_five.svg
+    - assets/icons/image_four.svg
+    - assets/icons/image_one.svg
+    - assets/icons/image_three.svg
+    - assets/icons/image_two.svg
+    - assets/image 1.5x/calculator.png
+    - assets/image 1.5x/cashbook.png
+    - assets/image 1.5x/home.png
+    - assets/image 1.5x/mastercard.png
+    - assets/image 1.5x/preference.png
+    - assets/image 1.5x/stock.png
+    - assets/image 2x/boypic1.png
+    - assets/image 2x/boypic2.png
+    - assets/image 2x/burgers.png
+    - assets/image 2x/dp.png
+    - assets/image 2x/fS upper pic.png
+    - assets/image 2x/facebook.png
+    - assets/image 2x/foodBox.png
+    - assets/image 2x/foodpng.png
+    - assets/image 2x/google.png
+    - assets/image 2x/handy.png
+    - assets/image 2x/imageView.png
+    - assets/image 2x/project.png
+    - assets/image 2x/shopBackground.png
+    - assets/image 2x/shopProfile.png
+    - assets/images/facebook_logo.png
+    - assets/images/imageView.png
+    - assets/images/img_apple_logo.png
+    - assets/images/img_bar.png
+    - assets/images/img_finger_tap.png
+    - assets/images/img_gallery.png
+    - assets/images/img_google.png
+    - assets/images/img_goole_map.png
+    - assets/images/img_ios_login.png
+    - assets/images/img_logo.png
+    - assets/images/small_logo.png
+    - assets/images/img_photo.png
+    - assets/images/img_profile_place_holder.jpg
+    - assets/images/img_us_flag.png
+    - assets/images/login.png
+    - assets/images/mapHeader.png
+    - assets/images/service_placeholder.png
+    - assets/images/filter.png
